@@ -4,7 +4,7 @@
 <title>カウントアップ！</title>
 </head>
 <body>
-  <image src="neko.jpg">
+  <image src="img/neko.jpg">
   <h1 id="counter">
     0
     </h1>
