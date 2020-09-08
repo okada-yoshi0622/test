@@ -7,7 +7,7 @@
   <h1 id="counter">
     0
     </h1>
-<input type="button"value="ボタン"onclick="countup()">
+<input type="button"value="テスト"onclick="countup()">
   <script>
     var cnt =0;
     var countup = function(){
@@ -16,7 +16,7 @@
       var counter = document.getElementById("counter");
       counter.innerHTML = cnt;
 
-    }
+    } 
     </script>
 </body>
 </html>
